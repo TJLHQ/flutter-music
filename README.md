@@ -18,4 +18,7 @@ A few resources to get you started if this is your first Flutter project:
 
 - [app下载地址](http://music.mmys.fun/apk/music.apk)
 
+我的掘金地址:里面有更多分享-以及技术说明
+- [掘金地址](https://juejin.cn/user/2101921962537416/posts)
+
 ![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f280e8a5e7f9fe.gif)
