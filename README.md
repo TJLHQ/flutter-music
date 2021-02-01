@@ -18,9 +18,6 @@ A few resources to get you started if this is your first Flutter project:
 
 - [app下载地址](http://music.mmys.fun/apk/music.apk)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f280e8a5e7f9fe.gif)
 ![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27dc065e19a77.png)
 ![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27dcf2f3f0eb1.png)
