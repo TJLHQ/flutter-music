@@ -19,13 +19,3 @@ A few resources to get you started if this is your first Flutter project:
 - [app下载地址](http://music.mmys.fun/apk/music.apk)
 
 ![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f280e8a5e7f9fe.gif)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27dc065e19a77.png)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27dcf2f3f0eb1.png)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27dcf32a4174a.png)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27dd9d87cd64b.png)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27dd9d91f0f63.png)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27e108104dd38.png)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27e108407a557.png)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27edfc580bde5.png)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27edfc5162bde.png)
-![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f27ee9a57a4623.png)
