@@ -14,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 
 ## APP下载地址
 
-可以下载apk体验效果.
+可以下载apk体验效果...
 
 - [app下载地址](http://music.mmys.fun/apk/music.apk)
 
