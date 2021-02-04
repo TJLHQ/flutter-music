@@ -22,3 +22,6 @@ A few resources to get you started if this is your first Flutter project:
 - [掘金地址](https://juejin.cn/user/2101921962537416/posts)
 
 ![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f280e8a5e7f9fe.gif)
+
+技术交流群(QQ)
+600424241
