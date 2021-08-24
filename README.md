@@ -23,5 +23,5 @@ A few resources to get you started if this is your first Flutter project:
 
 ![image](https://github.com/TJLHQ/flutter-music/blob/master/asset/16f280e8a5e7f9fe.gif)
 
-技术交流群(QQ)
+技术交流群(QQ)加群给接口访问权限
 600424241
